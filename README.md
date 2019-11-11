@@ -1,2 +1,4 @@
-“#Redo for practice”
-“###On Monday”
+"#git merging"
+“##Redo for practice”
+"###on Monday"
+“###with Chris”
